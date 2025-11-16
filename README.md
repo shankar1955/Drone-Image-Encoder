@@ -713,10 +713,10 @@ Contributions are welcome! Please:
 
 ## 📧 Contact & Support
 
-- **Author:** [Your Name]
-- **Email:** [your.email@example.com]
-- **GitHub Issues:** [Report bugs or request features](https://github.com/yourusername/drone-image-encoder/issues)
-- **Discussions:** [Join community discussions](https://github.com/yourusername/drone-image-encoder/discussions)
+- **Authors:** Shankar & Harivenkatesh
+- **Email:** shankarm2023@gmail.com / harivenkatesh1006@gmail.com
+- **GitHub Issues:** [Report bugs or request features](https://github.com/shankar1955/drone-image-encoder/issues)
+- **Discussions:** [Join community discussions](https://github.com/shankar1955/drone-image-encoder/discussions)
 
 ---
 
