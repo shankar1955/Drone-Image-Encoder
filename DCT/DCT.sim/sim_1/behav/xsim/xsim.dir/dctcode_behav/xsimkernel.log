@@ -1,7 +1,0 @@
-Running: xsim.dir/dctcode_behav/xsimk.exe -simmode gui -wdb dctcode_behav.wdb -simrunnum 0 -socket 52007
-Design successfully loaded
-Design Loading Memory Usage: 28572 KB (Peak: 28572 KB)
-Design Loading CPU Usage: 593 ms
-Simulation completed
-Simulation Memory Usage: 29516 KB (Peak: 29516 KB)
-Simulation CPU Usage: 702 ms
